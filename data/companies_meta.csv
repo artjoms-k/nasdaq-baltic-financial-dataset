@@ -1,0 +1,70 @@
+ticker,company_name,isin,currency,exchange,list_type,industry,sector,country,status,yahoo_ticker
+AIR,Airobot Technologies,EE3100092792,EUR,TLN,FirstNorth,Industrials,Construction and Materials,EE,active,AIR.TL
+AKO1L,Akola Group,LT0000128092,EUR,VLN,Main,Consumer Staples,Food and Beverage,LT,active,AKO1L.VS
+AMG1L,Amber Grid,LT0000128696,EUR,VLN,Secondary,Energy,Energy,LT,active,AMG1L.VS
+APG1L,Apranga,LT0000102337,EUR,VLN,Main,Consumer Discretionary,Retail,LT,active,APG1L.VS
+ARC1T,Arco Vara,EE3100034653,EUR,TLN,Main,Real Estate,Real Estate,EE,active,ARC1T.TL
+AUG1L,AUGA group,LT0000127466,EUR,VLN,Secondary,Consumer Staples,Food and Beverage,LT,active,AUG1L.VS
+BAL1R,Amber Latvijas balzams,LV0000100808,EUR,RIG,Secondary,Consumer Staples,Food and Beverage,LV,active,BAL1R.RG
+BERCM,Bercman Technologies,EE3100076407,EUR,TLN,FirstNorth,Industrials,Industrial Goods and Services,EE,active,BERCM.TL
+CPA1T,Coop Pank,EE3100007857,EUR,TLN,Main,Financials,Banks,EE,active,CPA1T.TL
+CTS1L,City Service,EE3100126368,EUR,VLN,FirstNorthForeign,Industrials,Industrial Goods and Services,EE,active,CTS1L.VS
+DGR1R,DelfinGroup,LV0000101806,EUR,RIG,Main,Financials,Financial Services,LV,active,DGR1R.RG
+EEG1T,Ekspress Grupp,EE3100016965,EUR,TLN,Main,Consumer Discretionary,Media,EE,active,EEG1T.TL
+EFT1T,EfTEN Real Estate Fund,EE3100127242,EUR,TLN,Main,Financials,Financial Services,EE,active,EFT1T.TL
+EGG,Agrova Baltics,LV0000101921,EUR,RIG,FirstNorth,Consumer Staples,Food and Beverage,LV,active,EGG.RG
+EJTC,Estonian Japan Trading Company,EE3100008996,EUR,TLN,FirstNorth,Financials,Financial Services,EE,active,EJTC.TL
+ELEVR,Eleving Group,LU2818110020,EUR,RIG,Main,Financials,Financial Services,LV,active,ELEVR.RG
+EWA1L,East West Agro,LT0000132060,EUR,VLN,FirstNorth,Industrials,Industrial Goods and Services,LT,active,EWA1L.VS
+FRGTE,Frigate,LV0000101665,EUR,RIG,FirstNorth,Financials,Financial Services,LV,active,FRGTE.RG
+GRB2G,Grab2Go,EE3100107194,EUR,TLN,FirstNorth,Industrials,Industrial Goods and Services,EE,active,GRB2G.TL
+GRG1L,Grigeo Group,LT0000102030,EUR,VLN,Main,Basic Materials,Basic Resources,LT,active,GRG1L.VS
+HAE1T,Harju Elekter Group,EE3100004250,EUR,TLN,Main,Industrials,Industrial Goods and Services,EE,active,HAE1T.TL
+HPR1T,Hepsor,EE3100082306,EUR,TLN,Main,Real Estate,Real Estate,EE,active,HPR1T.TL
+IDX1R,INDEXO,LV0000101863,EUR,RIG,Main,Financials,Financial Services,LV,active,IDX1R.RG
+IGN1L,Ignitis grupė,LT0000115768,EUR,VLN,Main,Utilities,Utilities,LT,active,IGN1L.VS
+INC1L,INVL Technology,LT0000128860,EUR,VLN,Secondary,Financials,Financial Services,LT,active,INC1L.VS
+INF1T,Infortar,EE3100149394,EUR,TLN,Main,Financials,Financial Services,EE,active,INF1T.TL
+INL1L,INVL Baltic Farmland,LT0000128753,EUR,VLN,Secondary,Real Estate,Real Estate,LT,active,INL1L.VS
+INR1L,INVL Baltic Real Estate,LT0000127151,EUR,VLN,Secondary,Real Estate,Real Estate,LT,active,INR1L.VS
+IVL1L,Invalda INVL,LT0000102279,EUR,VLN,Secondary,Financials,Financial Services,LT,active,IVL1L.VS
+K2LT,K2 LT,LT0000129009,EUR,VLN,FirstNorth,Consumer Discretionary,Consumer Products and Services,LT,active,K2LT.VS
+KALVE,Kalve Coffee,LV0000102234,EUR,RIG,FirstNorth,Consumer Staples,Food and Beverage,LV,active,KALVE.RG
+KNE1L,KN Energies,LT0000111650,EUR,VLN,Main,Industrials,Industrial Goods and Services,LT,active,KNE1L.VS
+KNR1L,Kauno energija,LT0000123010,EUR,VLN,Secondary,Utilities,Utilities,LT,active,KNR1L.VS
+LGD1L,LITGRID,LT0000128415,EUR,VLN,Secondary,Utilities,Utilities,LT,active,LGD1L.VS
+LHV1T,LHV Group,EE3100102203,EUR,TLN,Main,Financials,Banks,EE,active,LHV1T.TL
+LINDA,Linda Nektar,EE3100060344,EUR,TLN,FirstNorth,Consumer Staples,Food and Beverage,EE,active,LINDA.TL
+MAGIC,TextMagic,EE3100073438,EUR,TLN,FirstNorth,Telecommunications,Telecommunications,EE,active,MAGIC.TL
+MDARA,MADARA Cosmetics,LV0000101624,EUR,RIG,FirstNorth,Consumer Discretionary,Consumer Products and Services,LV,active,MDARA.RG
+MODE,Modera,EE3100084203,EUR,TLN,FirstNorth,Technology,Technology,EE,active,MODE.TL
+MOLNR,J. Molner,EE3100109034,EUR,TLN,FirstNorth,Health Care,Health Care,EE,active,MOLNR.TL
+MRK1T,Merko Ehitus,EE3100098328,EUR,TLN,Main,Industrials,Construction and Materials,EE,active,MRK1T.TL
+NCN1T,Nordecon,EE3100039496,EUR,TLN,Main,Industrials,Construction and Materials,EE,active,NCN1T.TL
+NEOFI,NEO Finance,LT0000132953,EUR,VLN,FirstNorth,Financials,Financial Services,LT,active,NEOFI.VS
+NTU1L,Novaturas,LT0000131872,EUR,VLN,Main,Consumer Discretionary,Travel and Leisure,LT,active,NTU1L.VS
+PKG1T,Pro Kapital Grupp,EE3100006040,EUR,TLN,Main,Real Estate,Real Estate,EE,active,PKG1T.TL
+PNKTD,Punktid Technologies,EE3100089160,EUR,TLN,FirstNorth,Technology,Technology,EE,active,PNKTD.TL
+PRF1T,PRFoods,EE3100101031,EUR,TLN,Secondary,Consumer Staples,Food and Beverage,EE,active,PRF1T.TL
+PRIMO,Primostar Group,EE3100152224,EUR,TLN,FirstNorth,Basic Materials,Building Materials,EE,active,PRIMO.TL
+PZV1L,Pieno žvaigždės,LT0000111676,EUR,VLN,Main,Consumer Staples,Food and Beverage,LT,active,PZV1L.VS
+RKB1R,Rīgas kuģu būvētava,LV0000100378,EUR,RIG,Secondary,Industrials,Industrial Goods and Services,LV,active,RKB1R.RG
+ROBUS,Robus Group,EE3100096140,EUR,TLN,FirstNorth,Consumer Discretionary,Consumer Products and Services,EE,active,ROBUS.TL
+ROE1L,Artea Bankas,LT0000102253,EUR,VLN,Main,Financials,Banks,LT,active,ROE1L.VS
+RSU1L,Rokiškio sūris,LT0000100372,EUR,VLN,Main,Consumer Staples,Food and Beverage,LT,active,RSU1L.VS
+SAF1R,SAF Tehnika,LV0000101129,EUR,RIG,Main,Telecommunications,Telecommunications,LV,active,SAF1R.RG
+SAUNA,Saunum Group,EE3100019753,EUR,TLN,FirstNorth,Consumer Discretionary,Consumer Products and Services,EE,active,SAUNA.TL
+SCM1R,Siguldas ciltslietu un mākslīgās apsēklošanas stacija,LV0000100600,EUR,RIG,Secondary,Consumer Staples,Food and Beverage,LV,active,SCM1R.RG
+SFG1T,Silvano Fashion Group,EE3100001751,EUR,TLN,Main,Consumer Discretionary,Consumer Products and Services,EE,active,SFG1T.TL
+SKN1T,Nordic Fibreboard,EE3100092503,EUR,TLN,Secondary,Consumer Discretionary,Consumer Products and Services,EE,active,SKN1T.TL
+TAL1T,Tallink Grupp,EE3100004466,EUR,TLN,Main,Consumer Discretionary,Travel and Leisure,EE,active,TAL1T.TL
+TEL1L,Telia Lietuva,LT0000123911,EUR,VLN,Main,Telecommunications,Telecommunications,LT,active,TEL1L.VS
+TKM1T,TKM Grupp,EE0000001105,EUR,TLN,Main,Consumer Discretionary,Retail,EE,active,TKM1T.TL
+TPD1T,Trigon Property Development,EE3100003443,EUR,TLN,Secondary,Real Estate,Real Estate,EE,active,TPD1T.TL
+TSM1T,Tallinna Sadam,EE3100021635,EUR,TLN,Main,Industrials,Industrial Goods and Services,EE,active,TSM1T.TL
+TVE1T,Tallinna Vesi,EE3100026436,EUR,TLN,Main,Utilities,Utilities,EE,active,TVE1T.TL
+UTR1L,Utenos trikotažas,LT0000109324,EUR,VLN,Secondary,Consumer Discretionary,Consumer Products and Services,LT,active,UTR1L.VS
+VBL1L,Vilniaus baldai,LT0000104267,EUR,VLN,Secondary,Consumer Discretionary,Consumer Products and Services,LT,active,VBL1L.VS
+VIRSI,VIRŠI-A,LV0000101848,EUR,RIG,FirstNorth,Consumer Discretionary,Retail,LV,active,VIRSI.RG
+VLP1L,Vilkyškių pieninė,LT0000127508,EUR,VLN,Main,Consumer Staples,Food and Beverage,LT,active,VLP1L.VS
+ZMP1L,Žemaitijos pienas,LT0000121865,EUR,VLN,Secondary,Consumer Staples,Food and Beverage,LT,active,ZMP1L.VS
