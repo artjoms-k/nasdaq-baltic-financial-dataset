@@ -1,0 +1,27 @@
+Nasdaq Baltic Financial Dataset — data files
+Copyright (c) 2026 Artjoms Kanausks
+
+The contents of this directory (companies_meta.csv, financials.csv and the
+accompanying documentation) are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate whether changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+
+  Kanausks, A. (2026). Nasdaq Baltic Financial Dataset.
+  https://github.com/artjoms-k/nasdaq-baltic-financial-dataset
+  Licensed under CC BY 4.0.
+
+The underlying figures are transcribed from Morningstar fact sheets published
+by Nasdaq Baltic on nasdaqbaltic.com. This licence applies to the compilation,
+structuring and documentation of that information, not to the underlying
+source data, which remains subject to the terms of its publishers.
+
+The data is provided as is, without warranty of accuracy or completeness, and
+is not investment advice.

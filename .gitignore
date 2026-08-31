@@ -1,0 +1,24 @@
+# Generated artefacts — rebuilt from data/ by the scripts in src/
+db/
+output/
+src/output/
+
+# Fetched, not curated
+data/stock_prices.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
