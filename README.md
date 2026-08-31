@@ -78,6 +78,8 @@ Figures come from three sources, and every row says which:
 
 Where more than one existed the issuer's own report won: primary, mostly audited, and stated to the thousand rather than rounded to the million.
 
+96 of the 226 rows are still sourced from fact sheets, so the dataset is a mix rather than a pure primary-source compilation. The first release in March 2026 carried 188 figures taken entirely from fact sheets; the rebuild on primary filings is what took it to 226 rows.
+
 ## What is in the data
 
 Revenue, net income, total assets, total equity, total liabilities, shares outstanding and dividends per share, in EUR millions, plus listing metadata and a Yahoo Finance symbol per company. Full field definitions and conventions are in [`data/DICTIONARY.md`](data/DICTIONARY.md).
@@ -134,7 +136,13 @@ python src/07_merge_esef.py --apply              # replaces data/financials.csv
 
 `05_fetch_esef.py` resolves each ISIN to an LEI through GLEIF, finds that entity's filings, and reads the figures out of the xBRL-JSON rendering. It writes `data/esef_extract.csv` and never touches `data/financials.csv`. `06_compare_sources.py` compares the two on the years they share and reports where they disagree. `07_merge_esef.py` then writes `data/financials_proposed.csv`; it replaces the statement figures where a filing exists, keeps dividends and share counts from the previous source, and stamps every row with its provenance. Only `--apply` touches `data/financials.csv`.
 
-**Coverage is uneven by country, and the reason is not the listing venue.** A full run in August 2026 returned 2025 figures for fourteen Lithuanian companies and none at all for Estonia or Latvia. Sixteen of the twenty-two Lithuanian issuers on a regulated market are in the index; twelve of nineteen Estonian ones and six of seven Latvian ones are absent, including names that certainly do file. The Lithuanian storage mechanism feeds the index reliably and the other two barely do. Both countries publish their filings on national portals — [Estonia](http://oam.fi.ee/et/home), [Latvia](https://csri.investinfo.lv/lv/) — but neither offers machine-readable access, so those figures are entered by hand.
+**Coverage is uneven by country, and the reason is not the listing venue.** A full run in August 2026 returned 2025 figures for sixteen Lithuanian companies and none at all for Estonia or Latvia. Fourteen of the sixteen carry a revenue line; all sixteen carry net income and equity.
+
+The index is not empty for the other two countries. It stops earlier. Checked in August 2026 it held 189 Lithuanian filings, 46 Estonian and 36 Latvian. The most recent Estonian period present was FY2024 and the most recent Latvian one FY2023, while Lithuanian FY2025 reports were added between March and May 2026. So the index runs level with Lithuania, a year behind Estonia and two behind Latvia.
+
+Part of that is indexing lag, which [filings.xbrl.org acknowledges](https://filings.xbrl.org/docs/about) can be significant. Part of it is not: two missing years for Latvia is longer than any reasonable lag. Counting issuers rather than filings, eighteen of the twenty-two Lithuanian issuers on a regulated market appear in the extract, seven of nineteen Estonian ones and one of seven Latvian ones.
+
+Both countries publish their filings on national portals ([Estonia](http://oam.fi.ee/et/home), [Latvia](https://csri.investinfo.lv/lv/)), but neither offers machine-readable access, so those figures are entered by hand.
 
 So the dataset is refreshed asymmetrically, and says so plainly:
 
@@ -144,7 +152,7 @@ So the dataset is refreshed asymmetrically, and says so plainly:
 | Estonia | by hand, from the issuer's annual report | as noted per row |
 | Latvia | by hand, from the issuer's annual report | as noted per row |
 
-ESEF also does not apply to First North at all: an MTF is outside the regulated-market obligation, so those issuers publish PDFs only and always stay manual.
+ESEF as a rule does not apply to First North: an MTF is outside the regulated-market obligation, so those issuers normally publish PDFs only and stay manual. There are exceptions where an issuer is also admitted to a regulated market elsewhere. CTS1L is one, and it appears in the extract.
 
 Two fields the filings do not give:
 
