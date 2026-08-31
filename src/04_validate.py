@@ -57,7 +57,13 @@ def main():
         f"assets = equity + liabilities within {TOLERANCE_EUR_M:g} EUR m on all {len(complete)} complete rows"
         + ("" if broken.empty else f" — {len(broken)} rows off: {broken.ticker.tolist()[:10]}"),
     )
-    check((fin.total_equity_eur_m.dropna() >= 0).all(), "no negative equity")
+    # Negative equity is not an error. Airobot's 2025 equity is -0.227m: a real
+    # capital deficit, and exactly the kind of fact a screen should surface
+    # rather than a validator reject.
+    negative = fin[fin.total_equity_eur_m < 0]
+    if len(negative):
+        print(f"  INFO  {len(negative)} rows with negative equity: "
+              + ", ".join(f"{r.ticker} {r.year}" for r in negative.itertuples()))
     check((fin.revenue_eur_m.dropna() >= 0).all(), "no negative revenue")
     check(fin.year.between(2000, 2100).all(), "year values are plausible")
 
@@ -82,6 +88,25 @@ def main():
     missing_bs = fin.total_assets_eur_m.isna().sum()
     if missing_bs:
         notes.append(f"{missing_bs} rows without total assets / liabilities")
+
+    # A figure recorded as whole millions collapses to zero for a company
+    # whose real number is a fraction of one. Equity of zero makes return on
+    # equity undefined and poisons any average it lands in, so it is called
+    # out rather than left to be discovered downstream.
+    zero_equity = fin[fin.total_equity_eur_m == 0]
+    if len(zero_equity):
+        names = ", ".join(sorted(zero_equity.ticker.unique()))
+        notes.append(f"{len(zero_equity)} rows with equity of exactly 0 — ROE is undefined ({names})")
+
+    statement = ["revenue_eur_m", "net_income_eur_m", "total_assets_eur_m",
+                 "total_equity_eur_m", "total_liabilities_eur_m"]
+    present = [c for c in statement if c in fin.columns]
+    rounded = fin[fin[present].apply(lambda r: all(v == round(v) for v in r.dropna()), axis=1)]
+    if len(rounded):
+        notes.append(
+            f"{len(rounded)} rows carry whole millions only — precision lost at source, "
+            "which matters most for companies below 10m"
+        )
 
     by_list = (
         fin.assign(list_type=fin.ticker.map(meta.set_index("ticker").list_type))

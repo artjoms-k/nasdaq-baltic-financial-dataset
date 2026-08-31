@@ -22,3 +22,5 @@ venv/
 Thumbs.db
 .idea/
 .vscode/
+data/financials_proposed.csv
+data/esef_extract.csv

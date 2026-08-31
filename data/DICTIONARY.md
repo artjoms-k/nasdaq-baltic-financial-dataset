@@ -31,6 +31,10 @@ Two curated CSV files. Everything else in the repository is generated from them.
 | `total_liabilities_eur_m` | real | EUR millions | Total liabilities. Blank where not published (29 rows). |
 | `shares_outstanding_m` | real | millions | Shares outstanding at year end. |
 | `dividends_per_share_eur` | real | EUR | Dividend per share declared for that fiscal year. |
+| `source` | text | — | `ESEF` for a figure read from the issuer's tagged annual report, otherwise the fact sheet it came from. |
+| `source_url` | text | — | Link to the exact filing the row was read from. Blank on fact-sheet rows. |
+| `retrieved_date` | text | — | When the figure was collected. Blank on rows predating provenance tracking. |
+| `notes` | text | — | Anything derived rather than reported in that row: liabilities from a subtraction, a share count from EPS, a non-controlling interest folded into liabilities, revenue deliberately not collected. |
 
 Primary key: (`ticker`, `year`).
 
@@ -45,6 +49,10 @@ Morningstar Fact Sheets published on [nasdaqbaltic.com](https://nasdaqbaltic.com
 **Derived total assets.** Where total assets were not directly available, they were derived as Financial Leverage × Equity. Such rows are not flagged separately — this is a known gap in provenance.
 
 **Blank vs zero.** A blank cell means the figure was not available in the source. It does not mean zero.
+
+**The owners' share, not the group total.** Net income and equity are the amounts attributable to the owners of the parent, excluding non-controlling interests. Where a group has minority shareholders the two differ — Akola Group's 2025 profit is 60.7m for the group and 54.3m for its owners. Because assets are a group total, the non-controlling interest then sits inside `total_liabilities_eur_m` so that assets still equal equity plus liabilities. Rows where this happened say so in `notes`.
+
+**Revenue for financial companies.** Banks and investment companies report no line comparable to revenue, so where the figure comes from an ESEF filing the field is left blank rather than filled with interest or fee income. Rows carried over from Morningstar fact sheets still hold that source's net revenue figure.
 
 **Classification.** `industry` and `sector` are the author's own groupings, not GICS, ICB or NACE. They are consistent within this dataset and not comparable to external classifications.
 

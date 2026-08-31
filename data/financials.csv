@@ -1,189 +1,227 @@
-ticker,year,revenue_eur_m,net_income_eur_m,total_assets_eur_m,total_equity_eur_m,total_liabilities_eur_m,shares_outstanding_m,dividends_per_share_eur
-AKO1L,2025,1581,54,1014,345,669,167,0.09
-AKO1L,2024,1506,22,886,296,590,168,0.03
-AKO1L,2023,2000,18,,284,,167,0.03
-APG1L,2025,307,16,172,69,103,56,0.24
-APG1L,2024,293,16,165,66,99,55,0.24
-APG1L,2023,270,17,,64,,55,0.28
-ARC1T,2024,7,-1,40,20,20,10,0.06
-ARC1T,2023,18,4,35,21,14,10,0.06
-ARC1T,2022,13,1,,18,,10,0.06
-CPA1T,2025,79,29,2703,235,2468,106,0.07
-CPA1T,2024,82,32,2189,212,1977,105,0.09
-CPA1T,2023,85,39,1986,186,1800,104,0.05
-DGR1R,2025,65,10,163,30,133,45,0.10
-DGR1R,2024,51,7,127,25,102,45,0.01
-DGR1R,2023,41,7,105,21,84,45,0.00
-EEG1T,2025,80,1,118,58,60,31,0.06
-EEG1T,2024,76,3,114,58,56,31,0.06
-EEG1T,2023,73,3,,57,,31,0.05
-EFT1T,2025,33,12,406,234,172,11,1.11
-EFT1T,2024,32,14,399,233,166,11,1.00
-EFT1T,2023,32,1,,219,,11,1.15
-ELEVR,2025,252,23,578,90,488,115,0.17
-ELEVR,2024,224,24,476,93,383,117,0.00
-ELEVR,2023,191,20,,54,,117,0.00
-GRG1L,2025,247,17,203,138,65,133,0.06
-GRG1L,2024,213,21,180,128,52,133,0.07
-GRG1L,2023,195,25,,116,,133,0.05
-HAE1T,2025,174,11,168,99,69,19,0.15
-HAE1T,2024,175,3,154,91,63,18,0.13
-HAE1T,2023,209,5,,90,,18,0.05
-HPR1T,2025,35,0.4,92,21,71,4,0.26
-HPR1T,2024,38,0.4,89,21,68,4,0.00
-HPR1T,2023,41,1,,21,,4,0.00
-IGN1L,2025,2473,164,6279,2495,3784,72,1.35
-IGN1L,2024,2296,276,5706,2437,3269,72,1.31
-IGN1L,2023,2542,320,,2263,,72,1.27
-INF1T,2025,1837,73,2588,924,1664,21,3.00
-INF1T,2024,1372,191,2715,909,1806,21,3.00
-INF1T,2023,1085,294,,819,,21,0.00
-IDX1R,2025,6,-8,284,54,230,6,0.00
-IDX1R,2024,4,-5,48,12,36,5,0.00
-IDX1R,2023,3,-3,,6,,4,0.00
-KNE1L,2025,105,18,540,173,367,380,0.02
-KNE1L,2024,94,15,535,163,372,380,0.01
-KNE1L,2023,84,13,,152,,380,0.00
-LHV1T,2025,305,114,10233,758,9475,333,0.09
-LHV1T,2024,338,149,8736,670,8066,329,0.13
-LHV1T,2023,310,140,,548,,324,0.04
-MRK1T,2025,311,40,415,261,154,18,1.90
-MRK1T,2024,539,65,447,254,193,18,1.30
-MRK1T,2023,466,46,,212,,18,1.00
-NCN1T,2025,208,1,127,28,99,32,0.00
-NCN1T,2024,224,4,114,26,88,32,0.00
-NCN1T,2023,186,-1,,22,,32,0.00
-NTU1L,2025,168,-1,43,7,36,8,0.00
-NTU1L,2024,201,-8,39,8,31,8,0.00
-NTU1L,2023,208,4,,18,,8,0.00
-PKG1T,2025,53,12,124,63,61,57,0.00
-PKG1T,2024,18,-4,119,51,68,57,0.00
-PKG1T,2023,23,-1,,54,,57,0.00
-PZV1L,2025,218,5,83,38,45,46,0.14
-PZV1L,2024,210,10,78,40,38,45,0.14
-PZV1L,2023,201,13,,36,,45,0.00
-RSU1L,2024,370,23,217,149,68,31,0.15
-RSU1L,2023,304,15,240,161,79,34,0.15
-RSU1L,2022,359,13,,151,,34,0.10
-SAF1R,2025,26,-1,26,16,10,3,0.00
-SAF1R,2024,27,-2,23,16,7,3,0.00
-SAF1R,2023,37,4,,19,,3,0.68
-ROE1L,2025,206,61,6075,603,5472,659,0.06
-ROE1L,2024,223,79,4923,585,4338,662,0.05
-ROE1L,2023,196,75,,543,,603,0.03
-SFG1T,2025,55,9,94,77,17,36,0.00
-SFG1T,2024,58,12,84,66,18,36,0.00
-SFG1T,2023,59,10,,54,,36,0.00
-TAL1T,2025,765,17,1331,750,581,748,0.06
-TAL1T,2024,786,40,1464,782,682,747,0.06
-TAL1T,2023,835,79,,786,,744,0.00
-TSM1T,2025,119,22,622,381,241,263,0.07
-TSM1T,2024,120,19,630,378,252,263,0.07
-TSM1T,2023,117,16,,378,,263,0.07
-TEL1L,2025,507,90,658,402,256,583,0.11
-TEL1L,2024,491,72,611,376,235,583,0.09
-TEL1L,2023,477,64,,357,,583,0.06
-TKM1T,2025,920,18,698,264,434,41,0.65
-TKM1T,2024,945,27,707,262,445,41,0.72
-TKM1T,2023,947,37,,263,,41,0.68
-VLP1L,2025,287,10,189,88,101,12,0.54
-VLP1L,2024,245,26,152,84,68,12,0.31
-VLP1L,2023,211,15,,61,,12,0.27
-TVE1T,2025,72,14,365,124,241,20,0.53
-TVE1T,2024,64,13,314,120,194,20,0.51
-TVE1T,2023,61,13,,117,,20,0.33
-AUG1L,2022,80,-5,231,77,154,229,0
-AUG1L,2023,77,-18,229,61,168,231,0
-AUG1L,2024,85,-32,203,30,173,233,0
-INL1L,2023,1,3,20,18,2,3,0.15
-INL1L,2024,1,2,23,20,3,3,0.12
-INL1L,2025,1,1,24,20,4,3,0.12
-INR1L,2022,3,4,41,24,17,8,0.12
-INR1L,2023,4,1,45,24,21,8,0.09
-INR1L,2024,4,3,45,25,20,8,0.09
-INC1L,2022,1,2,38,38,0,12,0
-INC1L,2023,1,5,49,44,5,12,0
-INC1L,2024,2,8,59,51,8,12,0
-BAL1R,2023,98,5,197,141,56,7,0.60
-BAL1R,2024,78,4,175,125,50,7,0.00
-BAL1R,2025,74,3,187,127,60,7,0.60
-AMG1L,2023,81,13,338,188,150,178,0.07
-AMG1L,2024,74,8,327,176,151,178,0.11
-AMG1L,2025,70,1,325,166,159,178,0.06
-RKB1R,2022,2,1,8,2,6,12,0
-IVL1L,2022,26,17,144,131,13,12,0.65
-IVL1L,2023,35,46,218,178,40,12,0
-IVL1L,2024,76,44,248,222,26,12,0.10
-KNR1L,2023,85,6,216,98,118,43,0.07
-KNR1L,2024,85,8,229,105,124,43,0
-KNR1L,2025,100,18,243,122,121,43,0.02
-LGD1L,2023,367,48,669,239,430,504,0
-LGD1L,2024,376,49,820,258,562,504,0.06
-LGD1L,2025,429,34,816,267,549,503,0.05
-PRF1T,2023,20,0,30,8,22,39,0
-PRF1T,2024,17,-5,22,3,19,39,0
-PRF1T,2025,19,7,20,11,9,46,0
-SCM1R,2022,2,0,2,2,0,0.4,0.08
-SCM1R,2023,2,0,2,2,0,0.4,0
-SCM1R,2024,2,0,2,2,0,0.4,0.05
-UTR1L,2023,22,-3,15,2,13,10,0.00
-UTR1L,2024,18,-2,16,0,16,10,0.00
-UTR1L,2025,23,0,13,0,13,10,0.00
-VBL1L,2023,98,2,81,28,53,4,0.00
-VBL1L,2024,97,10,85,38,47,4,0.00
-VBL1L,2025,104,4,83,39,44,4,0.78
-ZMP1L,2022,263,4,162,101,61,42,0.00
-ZMP1L,2023,278,21,166,122,44,42,0.00
-ZMP1L,2024,308,27,201,144,57,42,0.05
-SKN1T,2022,11,1,9,5,4,4,0.00
-SKN1T,2023,8,-1,9,4,5,4,0.00
-SKN1T,2024,8,-1,8,4,4,4,0.00
-TPD1T,2023,0,0,2,2,0,4,0.00
-TPD1T,2024,0,0,2,2,0,4,0.00
-TPD1T,2025,0,0,2,2,0,4,0.00
-EGG,2022,11,0,17,1,16,6,0.00
-EGG,2023,13,1,17,6,11,6,0.00
-EGG,2024,13,0,26,6,20,6,0.00
-AIR,2022,1,0,1,0,1,3,0.00
-AIR,2023,2,0,1,0,1,3,0.00
-AIR,2024,1,0,1,0,1,3,0.00
-BERCM,2022,2,-1,2,1,1,1,0.00
-BERCM,2023,2,0,2,1,1,1,0.00
-BERCM,2024,2,-1,1,0,1,1,0.00
-EWA1L,2023,35,2,24,10,14,1,1.70
-EWA1L,2024,32,2,34,11,23,1,0.80
-EWA1L,2025,42,2,36,13,23,1,0.80
-FRGTE,2022,0,0,1,1,0,1,0.00
-FRGTE,2023,1,0,1,1,0,1,0.00
-FRGTE,2024,1,0,1,1,0,1,0.00
-K2LT,2022,2,1,6,5,1,0.5,1.00
-K2LT,2023,2,1,6,5,1,0.5,1.00
-K2LT,2024,2,1,6,6,0,0.5,1.00
-KALVE,2024,3,0,2,2,0,1,0.00
-KALVE,2025,5,0,3,1,2,1,0.00
-LINDA,2023,2,0,3,3,0,2,0.10
-LINDA,2024,3,0,3,3,0,2,0.08
-LINDA,2025,3,0,3,3,0,2,0.06
-MDARA,2023,20,2,17,14,3,4,0.35
-MDARA,2024,22,5,20,17,3,4,0.58
-MDARA,2025,23,0,17,14,3,4,0.92
-MAGIC,2023,15,-21,40,36,4,9,0.00
-MAGIC,2024,15,2,37,34,3,9,0.00
-MAGIC,2025,14,-2,33,30,3,8,0.15
-NEOFI,2022,4,0,20,3,17,4,0.00
-NEOFI,2023,5,0,27,3,24,4,0.00
-NEOFI,2024,6,0,32,3,29,4,0.00
-MOLNR,2023,1,-1,3,0,3,2,0.00
-MOLNR,2024,2,-2,5,1,4,2,0.00
-MODE,2022,2,-1,6,4,2,2,0.00
-MODE,2023,2,0,7,6,1,2,0.00
-MODE,2024,2,0,7,5,2,2,0.00
-VIRSI,2023,344,5,140,70,70,15,0.11
-VIRSI,2024,381,5,151,74,77,15,0.05
-VIRSI,2025,398,6,188,110,78,15,0.05
-SAUNA,2022,2,-2,3,2,1,1,0.00
-SAUNA,2023,4,-1,4,3,1,1,0.00
-SAUNA,2024,3,-1,4,2,2,1,0.00
-CTS1L,2023,102,6,84,24,60,32,0.00
-CTS1L,2024,110,7,92,29,63,32,0.05
-CTS1L,2025,116,10,102,33,69,32,0.17
+ticker,year,revenue_eur_m,net_income_eur_m,total_assets_eur_m,total_equity_eur_m,total_liabilities_eur_m,shares_outstanding_m,dividends_per_share_eur,source,source_url,retrieved_date,notes
+AIR,2025,1.68,-0.426,0.738,-0.227,0.965,,,Issuer 12-month report (unaudited),https://view.news.eu.nasdaq.com/view?id=b996b4ac09605425c8f4ea7d6a081bb82&lang=et,2026-08-31,equity is negative — a real capital deficit
+AIR,2024,1.317,-0.248,0.65,0.199,0.451,3.0,0.0,Issuer annual report (audited),https://airobothome.com/documents/investor/2025/Auditeeritud%20Aruanne.pdf,2026-08-31,"parent-only — subsidiary merged in, basis changed from the prior years"
+AIR,2023,1.524,0.053,0.776,0.447,0.329,3.0,0.0,Issuer annual report (audited),https://airobothome.com/documents/investor/2024/Airobot_aruanne_2023.pdf,2026-08-31,consolidated
+AIR,2022,1.002,-0.388,0.722,0.394,0.328,3.0,0.0,Issuer annual report (audited),https://airobothome.com/documents/investor/2023/ARUANNE%202022%20koos%20audiitori%20otsusega.pdf,2026-08-31,consolidated; qualified audit opinion on 2021 opening inventory
+AKO1L,2025,1580.699,54.27,1014.272,344.717,669.555,167.0,0.09,ESEF,https://filings.xbrl.org/529900UB9QON717IL030/2025-06-30/ESEF/LT/0/abakolagroup-2025-06-30-en.json,2026-08-31,liabilities derived as assets minus equity
+AKO1L,2024,1506.238,21.934,886.061,295.634,590.427,168.0,0.03,ESEF,https://filings.xbrl.org/529900UB9QON717IL030/2024-06-30/ESEF/LT/0/abakolagroup-2024-06-30-en.json,2026-08-31,liabilities derived as assets minus equity
+AKO1L,2023,1999.617,18.134,894.323,284.152,610.171,167.0,0.03,ESEF,https://filings.xbrl.org/529900UB9QON717IL030/2023-06-30/ESEF/LT/0/ablinasagrogroup-2023-06-30-en.json,2026-08-31,liabilities derived as assets minus equity
+AKO1L,2022,1895.667,74.809,872.975,269.809,603.166,152.671,,ESEF,https://filings.xbrl.org/529900UB9QON717IL030/2022-06-30/ESEF/LT/0/ablinasagrogroup-20220630.json,2026-08-31,liabilities derived as assets minus equity; shares derived from profit / basic EPS (weighted average)
+AMG1L,2025,69.578,1.36,324.739,166.276,158.463,178.0,0.06,ESEF,https://filings.xbrl.org/097900BGMP0000061061/2025-12-31/ESEF/LT/0/abambergrid-2025-12-31-en.json,2026-08-31,liabilities derived as assets minus equity
+AMG1L,2024,74.31,8.306,327.196,175.628,151.568,178.0,0.11,ESEF,https://filings.xbrl.org/097900BGMP0000061061/2024-12-31/ESEF/LT/0/abambergrid-2024-12-31-en.json,2026-08-31,liabilities derived as assets minus equity
+AMG1L,2023,80.921,13.013,333.389,187.526,145.863,178.0,0.07,ESEF,https://filings.xbrl.org/097900BGMP0000061061/2023-12-31/ESEF/LT/0/abambergrid-2023-12-31-en.json,2026-08-31,liabilities derived as assets minus equity
+AMG1L,2022,98.206,15.665,548.356,183.804,364.552,174.056,,ESEF,https://filings.xbrl.org/097900BGMP0000061061/2022-12-31/ESEF/LT/0/abambergrid-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+APG1L,2025,307.185,16.216,171.528,69.294,102.234,56.0,0.24,ESEF,https://filings.xbrl.org/529900XX7EU9F4GJTY86/2025-12-31/ESEF/LT/0/apbapranga-2025-12-31-en.json,2026-08-31,
+APG1L,2024,292.937,15.96,164.968,66.348,98.62,55.0,0.24,ESEF,https://filings.xbrl.org/529900XX7EU9F4GJTY86/2024-12-31/ESEF/LT/0/apbapranga-2024-12-31-en.json,2026-08-31,
+APG1L,2023,269.696,16.773,160.025,63.658,96.367,55.0,0.28,ESEF,https://filings.xbrl.org/529900XX7EU9F4GJTY86/2023-12-31/ESEF/LT/0/apbapranga-2023-12-31-en.json,2026-08-31,
+APG1L,2022,242.899,15.635,148.275,62.367,85.908,55.839,,ESEF,https://filings.xbrl.org/529900XX7EU9F4GJTY86/2022-12-31/ESEF/LT/0/apbapranga-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+ARC1T,2025,7.685,-0.479,86.236,36.363,49.873,17.368,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/arc/2025_ar_en_eur_con.pdf,2026-08-31,consolidated IFRS; no distribution proposed from the 2025 loss
+ARC1T,2024,7.0,-1.0,40.0,20.0,20.0,10.0,0.06,Morningstar fact sheet via nasdaqbaltic.com,,,
+ARC1T,2023,18.0,4.0,35.0,21.0,14.0,10.0,0.06,Morningstar fact sheet via nasdaqbaltic.com,,,
+ARC1T,2022,13.0,1.0,,18.0,,10.0,0.06,Morningstar fact sheet via nasdaqbaltic.com,,,
+AUG1L,2025,51.48,-10.647,184.815,19.291,165.274,,,ESEF,https://filings.xbrl.org/48510000P2S3LHJPX414/2025-12-31/ESEF/LT/0/48510000P2S3LHJPX414-2025-12-31-0-en.json,2026-08-31,
+AUG1L,2024,85.369,-32.365,203.075,29.934,172.823,233.0,0.0,ESEF,https://filings.xbrl.org/48510000P2S3LHJPX414/2024-12-31/ESEF/LT/0/augagroupab-2024-12-31-0-en.json,2026-08-31,
+AUG1L,2023,77.442,-18.413,228.681,61.397,166.89,231.0,0.0,ESEF,https://filings.xbrl.org/48510000P2S3LHJPX414/2023-12-31/ESEF/LT/0/augagroupab-2023-12-31-en.json,2026-08-31,
+AUG1L,2022,80.088,-5.421,231.418,77.105,153.885,229.0,0.0,ESEF,https://filings.xbrl.org/48510000P2S3LHJPX414/2022-12-31/ESEF/LT/0/augagroupab-2022-12-31-en.json,2026-08-31,
+BAL1R,2025,74.0,3.0,187.0,127.0,60.0,7.0,0.6,Morningstar fact sheet via nasdaqbaltic.com,,,
+BAL1R,2024,78.0,4.0,175.0,125.0,50.0,7.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+BAL1R,2023,98.0,5.0,197.0,141.0,56.0,7.0,0.6,Morningstar fact sheet via nasdaqbaltic.com,,,
+BERCM,2025,2.196,-0.33,1.763,0.345,1.418,1.474,,Issuer 12-month report (unaudited),https://nasdaqbaltic.com/market/upload/reports/bercm/2025_q4_en_eur_con_las.pdf,2026-08-31,unaudited — the 2024 audited loss came in worse than the unaudited figure
+BERCM,2024,1.524,-0.583,1.363,0.497,0.866,1.0,0.0,Issuer annual report (audited),http://www.bercman.com/wp-content/uploads/2025/08/Bercman-Technologies-2024-consolidated-audited-report-with-sworn-auditor-report.pdf,2026-08-31,consolidated; audit cut assets by 0.406m and equity by 0.421m against the unaudited release
+BERCM,2023,1.669,-0.254,1.828,1.188,0.64,1.0,0.0,Issuer annual report (audited),http://www.bercman.com/wp-content/uploads/2025/08/Bercman-Technologies-2024-consolidated-audited-report-with-sworn-auditor-report.pdf,2026-08-31,consolidated; taken from the 2024 report's comparative column
+BERCM,2022,2.0,-1.0,2.0,1.0,1.0,1.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+CPA1T,2025,79.0,29.0,2703.0,235.0,2468.0,106.0,0.07,Morningstar fact sheet via nasdaqbaltic.com,,,
+CPA1T,2024,82.0,32.0,2189.0,212.0,1977.0,105.0,0.09,Morningstar fact sheet via nasdaqbaltic.com,,,
+CPA1T,2023,85.0,39.0,1986.0,186.0,1800.0,104.0,0.05,Morningstar fact sheet via nasdaqbaltic.com,,,
+CTS1L,2025,116.0,10.0,102.0,33.0,69.0,32.0,0.17,Morningstar fact sheet via nasdaqbaltic.com,,,
+CTS1L,2024,110.0,7.0,92.0,29.0,63.0,32.0,0.05,Morningstar fact sheet via nasdaqbaltic.com,,,
+CTS1L,2023,101.674,5.874,83.023,23.847,59.0,32.0,0.0,ESEF,https://filings.xbrl.org/25940046BHY41BKNKJ92/2023-12-31/ESEF/PL/0/cityservicese-2023-12-31-en.json,2026-08-31,
+CTS1L,2022,84.385,-4.66,77.703,17.881,59.684,31.067,,ESEF,https://filings.xbrl.org/25940046BHY41BKNKJ92/2022-12-31/ESEF/PL/0/cityservicese-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+DGR1R,2025,65.0,10.0,163.0,30.0,133.0,45.0,0.1,Morningstar fact sheet via nasdaqbaltic.com,,,
+DGR1R,2024,51.0,7.0,127.0,25.0,102.0,45.0,0.01,Morningstar fact sheet via nasdaqbaltic.com,,,
+DGR1R,2023,41.0,6.628,105.061,21.322,83.739,45.0,0.0,ESEF; revenue from Morningstar fact sheet,https://filings.xbrl.org/2138002PKHUJIMVMYB13/2023-12-31/ESEF/LV/0/asdelfingroup-2023-12-31-lv.json,2026-08-31,revenue not collected — Financial Services report no comparable revenue line; revenue kept from the previous source
+DGR1R,2022,,5.961,77.158,18.106,59.052,45.159,,ESEF,https://filings.xbrl.org/2138002PKHUJIMVMYB13/2022-12-31/ESEF/LV/1/asdelfingroup-2022-12-31-en.json,2026-08-31,revenue not collected — Financial Services report no comparable revenue line; shares derived from profit / basic EPS (weighted average)
+EEG1T,2025,80.0,1.0,118.0,58.0,60.0,31.0,0.06,Morningstar fact sheet via nasdaqbaltic.com,,,
+EEG1T,2024,76.0,3.0,114.0,58.0,56.0,31.0,0.06,Morningstar fact sheet via nasdaqbaltic.com,,,
+EEG1T,2023,73.0,3.0,,57.0,,31.0,0.05,Morningstar fact sheet via nasdaqbaltic.com,,,
+EEG1T,2022,64.141,4.048,99.836,55.276,44.413,30.322,,ESEF,https://filings.xbrl.org/529900B52V1TUMW7FS54/2022-12-31/ESEF/EE/0/529900B52V1TUMW7FS54-2022-12-31-et.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+EFT1T,2025,33.0,12.0,406.0,234.0,172.0,11.0,1.11,Morningstar fact sheet via nasdaqbaltic.com,,,
+EFT1T,2024,32.0,14.0,399.0,233.0,166.0,11.0,1.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+EFT1T,2023,32.0,1.0,,219.0,,11.0,1.15,Morningstar fact sheet via nasdaqbaltic.com,,,
+EGG,2025,24.314,5.18,32.579,11.247,21.332,5.728,,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/egg/2025_ar_en_con_las.pdf,2026-08-31,consolidated; profit and equity not split between owners and non-controlling interests
+EGG,2024,12.68,-0.012,25.639,6.067,19.572,6.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/egg/2024_ar_en_eur_con_las.pdf,2026-08-31,"consolidated, Latvian GAAP; share count not printed"
+EGG,2023,13.0,1.0,17.0,6.0,11.0,6.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+EGG,2022,11.23,0.331,13.203,0.763,12.44,6.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/egg/2022_ar_en_eur_con_las.pdf,2026-08-31,"consolidated, Latvian GAAP; filed under the earlier name AS APF Holdings"
+ELEVR,2025,252.0,23.0,578.0,90.0,488.0,115.0,0.17,Morningstar fact sheet via nasdaqbaltic.com,,,
+ELEVR,2024,224.0,24.0,476.0,93.0,383.0,117.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+ELEVR,2023,191.0,20.0,,54.0,,117.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+EWA1L,2025,42.0,2.0,36.0,13.0,23.0,1.0,0.8,Morningstar fact sheet via nasdaqbaltic.com,,,
+EWA1L,2024,32.0,2.0,34.0,11.0,23.0,1.0,0.8,Morningstar fact sheet via nasdaqbaltic.com,,,
+EWA1L,2023,35.0,2.0,24.0,10.0,14.0,1.0,1.7,Morningstar fact sheet via nasdaqbaltic.com,,,
+FRGTE,2025,1.161,0.114,1.153,1.035,0.118,0.56,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/frgte/2025_ar_lv_las.pdf,2026-08-31,standalone under Latvian GAAP not IFRS; board proposed the profit be left undistributed
+FRGTE,2024,0.945,0.079,1.028,0.922,0.106,1.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/frgte/2024_ar_lv_eur_00_las.pdf,2026-08-31,"standalone, Latvian GAAP; the published balance sheet is out by 1 EUR"
+FRGTE,2023,0.893,0.234,1.028,0.843,0.185,1.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/frgte/2023_ar_lv_eur_00_las.pdf,2026-08-31,"standalone, Latvian GAAP"
+FRGTE,2022,0.214,-0.396,0.728,0.609,0.119,1.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/frgte/2023_ar_lv_eur_00_las.pdf,2026-08-31,"standalone, Latvian GAAP; liabilities from the 2023 comparative, which foots"
+GRG1L,2025,246.424,16.597,202.591,137.287,65.304,133.0,0.06,ESEF,https://filings.xbrl.org/529900YXT3CDTZGS0R43/2025-12-31/ESEF/LT/0/abgrigeogroup-2025-12-31-en.json,2026-08-31,liabilities include 0.541m of non-controlling interests
+GRG1L,2024,212.992,20.818,179.779,128.373,51.406,133.0,0.07,ESEF,https://filings.xbrl.org/529900YXT3CDTZGS0R43/2024-12-31/ESEF/LT/0/abgrigeogroup-2024-12-31-en.json,2026-08-31,liabilities include 0.656m of non-controlling interests
+GRG1L,2023,195.352,25.306,156.883,115.974,40.909,133.0,0.05,ESEF,https://filings.xbrl.org/529900YXT3CDTZGS0R43/2023-12-31/ESEF/LT/0/abgrigeo-2023-12-31-en.json,2026-08-31,liabilities include 0.615m of non-controlling interests
+GRG1L,2022,203.209,10.525,142.8,97.044,45.756,131.562,,ESEF,https://filings.xbrl.org/529900YXT3CDTZGS0R43/2022-12-31/ESEF/LT/0/abgrigeo-2022-12-31-en.json,2026-08-31,liabilities include 0.809m of non-controlling interests; shares derived from profit / basic EPS (weighted average)
+HAE1T,2025,174.0,11.0,168.0,99.0,69.0,19.0,0.15,Morningstar fact sheet via nasdaqbaltic.com,,,
+HAE1T,2024,175.0,3.0,154.0,91.0,63.0,18.0,0.13,Morningstar fact sheet via nasdaqbaltic.com,,,
+HAE1T,2023,209.0,5.0,,90.0,,18.0,0.05,Morningstar fact sheet via nasdaqbaltic.com,,,
+HPR1T,2025,35.0,0.4,92.0,21.0,71.0,4.0,0.26,Morningstar fact sheet via nasdaqbaltic.com,,,
+HPR1T,2024,38.0,0.4,89.0,21.0,68.0,4.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+HPR1T,2023,41.0,1.0,,21.0,,4.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+HPR1T,2022,12.87,1.396,78.368,19.866,58.045,3.878,,ESEF,https://filings.xbrl.org/254900NNCQC3L9WR9P45/2022-12-31/ESEF/EE/0/254900NNCQC3L9WR9P45-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+IDX1R,2025,6.0,-8.0,284.0,54.0,230.0,6.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+IDX1R,2024,4.0,-5.0,48.0,12.0,36.0,5.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+IDX1R,2023,3.0,-3.0,,6.0,,4.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+IGN1L,2025,2473.0,163.9,6278.9,2494.7,3784.2,72.0,1.35,ESEF,https://filings.xbrl.org/5493005RZJHJT5PNHY10/2025-12-31/ESEF/GB/0/5493005RZJHJT5PNHY10-2025-12-31.json,2026-08-31,
+IGN1L,2024,2295.6,276.2,5706.0,2436.8,3269.2,72.0,1.31,ESEF,https://filings.xbrl.org/5493005RZJHJT5PNHY10/2024-12-31/ESEF/LT/0/abignitisgrupe-2024-12-31-en.json,2026-08-31,
+IGN1L,2023,2542.4,320.2,5244.4,2263.4,2981.0,72.0,1.27,ESEF,https://filings.xbrl.org/5493005RZJHJT5PNHY10/2023-12-31/ESEF/LT/0/abignitisgrupe-2023-12-31-en.json,2026-08-31,
+IGN1L,2022,4381.3,293.4,5271.6,2125.6,3146.0,72.624,,ESEF,https://filings.xbrl.org/5493005RZJHJT5PNHY10/2022-12-31/ESEF/LT/0/abignitisgrupe-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+INC1L,2025,,13.346,75.055,64.624,10.431,11.964,,Issuer annual report (audited),https://invltechnology.lt/wp-content/uploads/2026/04/Annual-management-report_INVL-Technology_2025.pdf,2026-08-31,investment company — reports no comparable revenue line
+INC1L,2024,2.0,8.0,59.0,51.0,8.0,12.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+INC1L,2023,1.0,5.0,49.0,44.0,5.0,12.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+INC1L,2022,1.0,2.115,38.447,38.27,0.177,12.0,0.0,ESEF; revenue from Morningstar fact sheet,https://nasdaqbaltic.com/market/upload/reports/inc/2022_ar_en_eur_solo_ias_00.pdf,2026-08-31,"investment company — reports total net income, not revenue; revenue kept from the previous source"
+INF1T,2025,1837.0,73.0,2588.0,924.0,1664.0,21.0,3.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+INF1T,2024,1372.0,191.0,2715.0,909.0,1806.0,21.0,3.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+INF1T,2023,1085.0,294.0,,819.0,,21.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+INL1L,2025,0.891,0.816,23.619,20.172,3.447,3.0,0.12,ESEF,https://filings.xbrl.org/5299000AUE9M1W13ZQ36/2025-12-31/ESEF/LT/0/abinvlbalticfarmland-2025-12-31-1-en.json,2026-08-31,
+INL1L,2024,0.835,1.836,22.984,19.743,3.241,3.0,0.12,ESEF,https://filings.xbrl.org/5299000AUE9M1W13ZQ36/2024-12-31/ESEF/LT/0/abinvlbalticfarmland-2024-12-31-0-en.json,2026-08-31,
+INL1L,2023,0.794,2.643,20.947,18.294,2.653,3.0,0.15,ESEF,https://filings.xbrl.org/5299000AUE9M1W13ZQ36/2023-12-31/ESEF/LT/0/abinvlbalticfarmland-2023-12-31-en.json,2026-08-31,
+INL1L,2022,0.722,1.968,18.419,16.135,2.284,3.226,,ESEF,https://filings.xbrl.org/5299000AUE9M1W13ZQ36/2022-12-31/ESEF/LT/0/abinvlbalticfarmland-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+INR1L,2025,4.104,3.667,49.18,28.135,21.045,7.972,,ESEF,https://filings.xbrl.org/529900GSTEOHKA0R1M59/2025-12-31/ESEF/LT/0/invlbalticrealestate-2025-12-31-1-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+INR1L,2024,3.992,2.739,45.347,25.247,20.1,8.0,0.09,ESEF,https://filings.xbrl.org/529900GSTEOHKA0R1M59/2024-12-31/ESEF/LT/0/1.invlbalticrealestate-2024-12-31-0-en.json,2026-08-31,
+INR1L,2023,3.631,0.699,44.564,23.516,21.048,8.0,0.09,ESEF,https://filings.xbrl.org/529900GSTEOHKA0R1M59/2023-12-31/ESEF/LT/0/invlbalticrealestate-2023-12-31-en.json,2026-08-31,
+INR1L,2022,3.412,4.224,39.016,23.543,15.473,8.0,0.12,ESEF,https://filings.xbrl.org/529900GSTEOHKA0R1M59/2022-12-31/ESEF/LT/0/invlbalticrealestate-2022-12-31-en.json,2026-08-31,
+IVL1L,2025,,47.104,274.548,256.192,18.247,12.047,,ESEF,https://filings.xbrl.org/52990001IQUJ710GHH43/2025-12-31/ESEF/LT/0/invaldainvl-2025-12-31-0-en.json,2026-08-31,revenue not collected — Financial Services report no comparable revenue line; shares derived from profit / basic EPS (weighted average)
+IVL1L,2024,76.0,44.384,247.67,222.041,25.452,12.0,0.1,ESEF; revenue from Morningstar fact sheet,https://filings.xbrl.org/52990001IQUJ710GHH43/2024-12-31/ESEF/LT/0/invaldainvl-2024-12-31-0-en.json,2026-08-31,revenue not collected — Financial Services report no comparable revenue line; revenue kept from the previous source
+IVL1L,2023,35.0,45.816,218.464,178.03,40.434,12.0,0.0,ESEF; revenue from Morningstar fact sheet,https://filings.xbrl.org/52990001IQUJ710GHH43/2023-12-31/ESEF/LT/0/invaldainvl-2023-12-31-en.json,2026-08-31,revenue not collected — Financial Services report no comparable revenue line; revenue kept from the previous source
+IVL1L,2022,26.0,16.666,144.026,130.79,13.099,12.0,0.65,ESEF; revenue from Morningstar fact sheet,https://filings.xbrl.org/52990001IQUJ710GHH43/2022-12-31/ESEF/LT/0/invaldainvl-2022-12-31-en.json,2026-08-31,revenue not collected — Financial Services report no comparable revenue line; revenue kept from the previous source
+K2LT,2025,1.861,3.013,9.957,8.532,1.425,0.312,,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/k2lt/2025_ar_en_las.pdf,2026-08-31,company-only; profit driven by the December 2025 disposal of a subsidiary — revenue itself fell 3%
+K2LT,2024,1.92,0.592,5.954,5.519,0.435,0.5,1.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/k2lt/2024_ar_lt_eur_solo_las.pdf,2026-08-31,"company-only, Lithuanian GAAP; the 1.00 paid during 2024 was the 2023 profit"
+K2LT,2023,2.0,1.0,6.0,5.0,1.0,0.5,1.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+K2LT,2022,2.0,1.0,6.0,5.0,1.0,0.5,1.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+KALVE,2025,5.267,-0.116,2.802,1.412,1.39,1.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/kalve/2025_ar_en_con_las.pdf,2026-08-31,"first consolidated year, Latvian GAAP — not comparable in scope to 2024"
+KALVE,2024,3.405,0.186,2.252,1.528,0.724,1.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/kalve/2024_q4_en_eur_00_las.pdf,2026-08-31,"parent-only, Latvian GAAP; audited annual report filed only as a ZIP, figures corroborated across two filings"
+KNE1L,2025,105.209,18.211,554.958,172.592,382.366,380.0,0.02,ESEF,https://filings.xbrl.org/529900MTLT34HRR1LT15/2025-12-31/ESEF/LT/0/abknenergies-2025-12-31-en.json,2026-08-31,liabilities derived as assets minus equity
+KNE1L,2024,93.655,15.366,535.174,163.128,372.046,380.0,0.01,ESEF,https://filings.xbrl.org/529900MTLT34HRR1LT15/2024-12-31/ESEF/LT/0/abknenergies-2024-12-31-en.json,2026-08-31,liabilities derived as assets minus equity
+KNE1L,2023,83.525,13.226,556.11,152.211,403.899,380.0,0.0,ESEF,https://filings.xbrl.org/529900MTLT34HRR1LT15/2023-12-31/ESEF/LT/0/abknenergies-2023-12-31-en.json,2026-08-31,liabilities derived as assets minus equity
+KNE1L,2022,77.818,-5.904,573.933,139.1,434.833,295.2,,ESEF,https://filings.xbrl.org/529900MTLT34HRR1LT15/2022-12-31/ESEF/LT/0/abklaipedosnafta-2022-12-31-en.json,2026-08-31,liabilities derived as assets minus equity; shares derived from profit / basic EPS (weighted average)
+KNR1L,2025,100.0,18.0,243.0,122.0,121.0,43.0,0.02,Morningstar fact sheet via nasdaqbaltic.com,,,
+KNR1L,2024,84.751,7.753,229.19,105.359,123.831,43.0,0.0,ESEF,https://filings.xbrl.org/529900RB20XIQK6NOQ50/2024-12-31/ESEF/LT/0/abkaunoenergija-2024-12-31-en.json,2026-08-31,
+KNR1L,2023,85.048,6.078,213.54,97.606,115.934,43.0,0.07,ESEF,https://filings.xbrl.org/529900RB20XIQK6NOQ50/2023-12-31/ESEF/LT/0/abkaunoenergija-2023-12-31-en.json,2026-08-31,
+KNR1L,2022,87.992,5.858,203.886,96.101,107.785,41.843,,ESEF,https://filings.xbrl.org/529900RB20XIQK6NOQ50/2022-12-31/ESEF/LT/0/abkaunoenergija-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+LGD1L,2025,429.269,34.221,816.412,267.477,548.935,503.0,0.05,ESEF,https://filings.xbrl.org/529900CTIUKTEFNNH157/2025-12-31/ESEF/LT/0/litgridab-2025-12-31-en.json,2026-08-31,
+LGD1L,2024,375.865,49.028,820.32,258.195,562.125,504.0,0.06,ESEF,https://filings.xbrl.org/529900CTIUKTEFNNH157/2024-12-31/ESEF/LT/0/litgridab-2024-12-31-en.json,2026-08-31,
+LGD1L,2023,366.822,48.386,677.417,238.686,438.731,504.0,0.0,ESEF,https://filings.xbrl.org/529900CTIUKTEFNNH157/2023-12-31/ESEF/LT/0/litgridab-2023-12-31-en.json,2026-08-31,
+LGD1L,2022,418.953,-49.484,718.545,166.98,551.565,504.939,,ESEF,https://filings.xbrl.org/529900CTIUKTEFNNH157/2022-12-31/ESEF/LT/0/litgridab-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+LHV1T,2025,305.0,114.0,10233.0,758.0,9475.0,333.0,0.09,Morningstar fact sheet via nasdaqbaltic.com,,,
+LHV1T,2024,338.0,149.0,8736.0,670.0,8066.0,329.0,0.13,Morningstar fact sheet via nasdaqbaltic.com,,,
+LHV1T,2023,310.0,140.0,,548.0,,324.0,0.04,Morningstar fact sheet via nasdaqbaltic.com,,,
+LINDA,2025,2.754,-0.268,2.962,2.844,0.118,2.0,0.06,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/linda/2025_ar_en_eur_las.pdf,2026-08-31,parent-only; board proposed no dividend for 2025
+LINDA,2024,2.544,-0.146,3.41,3.207,0.203,2.0,0.08,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/linda/2024_ar_en_eur_las_00.pdf,2026-08-31,parent-only; dividend per share not published
+LINDA,2023,2.49,-0.131,3.762,3.48,0.282,2.0,0.1,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/linda/2023_ar_en_eur_las_00.pdf,2026-08-31,"parent-only; dividend per share not published, only totals paid during the year"
+MAGIC,2025,14.0,-2.0,33.0,30.0,3.0,8.0,0.15,Morningstar fact sheet via nasdaqbaltic.com,,,
+MAGIC,2024,15.0,2.0,37.0,34.0,3.0,9.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+MAGIC,2023,15.0,-21.0,40.0,36.0,4.0,9.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+MDARA,2025,23.217,-0.389,16.572,13.482,3.09,4.0,0.92,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/mdara/2025_ar_en_con_las.pdf,2026-08-31,"consolidated; the 0.40 proposed comes from retained earnings, not from the 2025 loss"
+MDARA,2024,22.0,5.0,20.0,17.0,3.0,4.0,0.58,Morningstar fact sheet via nasdaqbaltic.com,,,
+MDARA,2023,20.0,2.0,17.0,14.0,3.0,4.0,0.35,Morningstar fact sheet via nasdaqbaltic.com,,,
+MODE,2025,2.522,0.201,7.508,5.348,2.16,1.972,,Issuer annual report (audited),https://modera.com/wp-content/uploads/2026/03/11383889_2025__Aruanne_11383889.pdf,2026-08-31,parent-only — exempt from consolidating; group revenue reported separately as 2.652m
+MODE,2024,2.035,-0.415,7.48,5.147,2.333,2.0,0.0,Issuer annual report (audited),https://modera.com/wp-content/uploads/2025/06/2024.-majandusaasta-aruanne.pdf,2026-08-31,parent-only — exempt from consolidating
+MODE,2023,2.125,-0.095,6.812,5.561,1.251,2.0,0.0,Issuer annual report (audited),https://modera.com/wp-content/uploads/2024/04/11383889_2023__Modera-majandusaasta-aruanne.pdf,2026-08-31,parent-only — exempt from consolidating; filed as an abridged small-undertaking report
+MODE,2022,2.0,-1.0,6.0,4.0,2.0,2.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+MOLNR,2025,1.147,0.132,5.37,2.114,3.256,1.686,0.0,Issuer annual report (audited),https://www.jmolner.com/_files/ugd/bcb7d0_b4aeedc5ad654314a26f5b2bf5492048.pdf,2026-08-31,consolidated; accumulated loss to be covered from future profits
+MOLNR,2024,2.0,-2.0,5.0,1.0,4.0,2.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+MOLNR,2023,0.618,-1.085,3.131,0.263,2.867,2.0,0.0,Issuer annual report (audited),https://www.jmolner.com/_files/ugd/bcb7d0_7568a357f61f407eb4ee8e1dad636eb0.pdf,2026-08-31,consolidated; from the 2024 report's comparative — the 2023 filing is a scanned image
+MRK1T,2025,311.0,40.0,415.0,261.0,154.0,18.0,1.9,Morningstar fact sheet via nasdaqbaltic.com,,,
+MRK1T,2024,539.0,65.0,447.0,254.0,193.0,18.0,1.3,Morningstar fact sheet via nasdaqbaltic.com,,,
+MRK1T,2023,466.0,46.0,,212.0,,18.0,1.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+NCN1T,2025,208.0,1.0,127.0,28.0,99.0,32.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+NCN1T,2024,224.0,4.0,114.0,26.0,88.0,32.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+NCN1T,2023,186.0,-1.0,,22.0,,32.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+NEOFI,2025,8.032,1.498,41.393,4.768,36.625,4.202,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/neofi/2025_ar_en_las.pdf,2026-08-31,company-only not consolidated — group equity is materially lower; liabilities derived as assets minus equity
+NEOFI,2024,6.072,0.486,32.125,3.27,28.854,4.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/neofi/2024_ar_en_eur_00_las.pdf,2026-08-31,"company-only, not consolidated; liabilities are the residual, no total is printed"
+NEOFI,2023,4.625,0.261,27.404,2.785,24.619,4.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/neofi/2024_ar_en_eur_00_las.pdf,2026-08-31,"company-only, not consolidated; from the 2024 report's comparative"
+NEOFI,2022,3.53,0.104,17.142,2.524,14.618,4.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/neofi/2022_ar_en_eur_00_las.pdf,2026-08-31,"company-only, not consolidated"
+NTU1L,2025,168.0,-1.0,43.0,7.0,36.0,8.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+NTU1L,2024,200.878,-7.604,39.45,8.02,31.43,8.0,0.0,ESEF,https://filings.xbrl.org/097900BGCW0000042109/2024-12-31/ESEF/LT/0/abnovaturas-2024-12-31-en.json,2026-08-31,liabilities derived as assets minus equity
+NTU1L,2023,208.331,3.587,49.853,17.939,31.914,8.0,0.0,ESEF,https://filings.xbrl.org/097900BGCW0000042109/2023-12-31/ESEF/LT/0/abnovaturas-2023-12-31-en.json,2026-08-31,liabilities derived as assets minus equity
+NTU1L,2022,196.676,-0.818,55.895,14.273,41.622,8.18,,ESEF,https://filings.xbrl.org/097900BGCW0000042109/2022-12-31/ESEF/LT/0/abnovaturas-2022-12-31-en.json,2026-08-31,liabilities derived as assets minus equity; shares derived from profit / basic EPS (weighted average)
+PKG1T,2025,53.0,12.0,124.0,63.0,61.0,57.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+PKG1T,2024,18.0,-4.0,119.0,51.0,68.0,57.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+PKG1T,2023,23.0,-1.0,,54.0,,57.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+PRF1T,2025,19.0,7.0,20.0,11.0,9.0,46.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+PRF1T,2024,17.0,-5.0,22.0,3.0,19.0,39.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+PRF1T,2023,19.578,0.303,30.246,8.033,21.953,39.0,0.0,ESEF,https://filings.xbrl.org/529900PFXFO2ZDCRNK93/2023-06-30/ESEF/EE/0/PRFoods_AS-2023-06-30-et.json,2026-08-31,
+PRF1T,2022,42.128,-8.143,38.917,7.853,30.865,38.776,,ESEF,https://filings.xbrl.org/529900PFXFO2ZDCRNK93/2022-06-30/ESEF/EE/0/PRFoods_AS-2022-06-30-et.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+PZV1L,2025,218.0,5.0,83.0,38.0,45.0,46.0,0.14,Morningstar fact sheet via nasdaqbaltic.com,,,
+PZV1L,2024,210.0,10.0,78.0,40.0,38.0,45.0,0.14,Morningstar fact sheet via nasdaqbaltic.com,,,
+PZV1L,2023,201.0,13.0,,36.0,,45.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+RKB1R,2022,2.0,1.0,8.0,2.0,6.0,12.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+ROE1L,2025,206.0,60.686,6075.47,603.057,5472.413,659.0,0.06,ESEF; revenue from Morningstar fact sheet,https://filings.xbrl.org/549300TK038P6EV4YU51/2025-12-31/ESEF/LT/0/abarteabankas-2025-12-31-en.json,2026-08-31,revenue not collected — Banks report no comparable revenue line; revenue kept from the previous source
+ROE1L,2024,223.0,78.787,4922.619,585.172,4337.447,662.0,0.05,ESEF; revenue from Morningstar fact sheet,https://filings.xbrl.org/549300TK038P6EV4YU51/2024-12-31/ESEF/LT/0/absiauliubankas-2024-12-31-en.json,2026-08-31,revenue not collected — Banks report no comparable revenue line; revenue kept from the previous source
+ROE1L,2023,196.0,75.375,4809.321,543.128,4266.193,603.0,0.03,ESEF; revenue from Morningstar fact sheet,https://filings.xbrl.org/549300TK038P6EV4YU51/2023-12-31/ESEF/LT/0/549300TK038P6EV4YU51-2023-12-31-en.json,2026-08-31,revenue not collected — Banks report no comparable revenue line; revenue kept from the previous source
+ROE1L,2022,,63.614,4184.531,441.696,3742.835,578.309,,ESEF,https://filings.xbrl.org/549300TK038P6EV4YU51/2022-12-31/ESEF/LT/0/549300TK038P6EV4YU51-2022-12-31-en.json,2026-08-31,revenue not collected — Banks report no comparable revenue line; shares derived from profit / basic EPS (weighted average)
+RSU1L,2025,402.67,17.194,222.345,160.072,62.273,31.841,,ESEF,https://filings.xbrl.org/48510000PW42N5W74S87/2025-12-31/ESEF/LT/0/abrokiskiosuris-2025-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+RSU1L,2024,370.348,22.841,217.376,149.207,68.169,31.0,0.15,ESEF,https://filings.xbrl.org/48510000PW42N5W74S87/2024-12-31/ESEF/LT/0/abrokiskiosuris-2024-12-31-en.json,2026-08-31,
+RSU1L,2023,304.254,15.073,240.265,161.241,79.024,34.0,0.15,ESEF,https://filings.xbrl.org/48510000PW42N5W74S87/2023-12-31/ESEF/LT/0/abrokiskiosuris-2023-12-31-en.json,2026-08-31,
+RSU1L,2022,359.269,12.514,221.65,151.449,70.201,34.0,0.1,ESEF,https://filings.xbrl.org/48510000PW42N5W74S87/2022-12-31/ESEF/LT/0/abrokiskiosuris-2022-12-31-en.json,2026-08-31,
+SAF1R,2025,26.0,-1.0,26.0,16.0,10.0,3.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+SAF1R,2024,27.0,-2.0,23.0,16.0,7.0,3.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+SAF1R,2023,37.0,4.0,,19.0,,3.0,0.68,Morningstar fact sheet via nasdaqbaltic.com,,,
+SAUNA,2025,3.393,-0.252,4.177,1.682,2.495,1.438,,Issuer 12-month report (unaudited),https://nasdaqbaltic.com/market/upload/reports/sauna/2025_q4_et_eur_con_las.pdf,2026-08-31,unaudited — no audited 2025 report published yet
+SAUNA,2024,3.0,-1.0,4.0,2.0,2.0,1.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+SAUNA,2023,4.0,-1.0,4.0,3.0,1.0,1.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+SAUNA,2022,2.0,-2.0,3.0,2.0,1.0,1.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+SCM1R,2025,1.943,0.029,2.222,1.921,0.302,0.422,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/scm/2025_ar_en_las.pdf,2026-08-31,standalone under Latvian GAAP not IFRS; 2025 profit retained — the 2026 dividend came from earlier years
+SCM1R,2024,1.656,0.081,2.268,1.892,0.377,0.4,0.05,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/scm/2024_ar_en_eur_00_las.pdf,2026-08-31,"standalone, Latvian GAAP; profit left undistributed"
+SCM1R,2023,1.538,0.065,2.066,1.832,0.234,0.4,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/scm/2023_ar_en_eur_00_las.pdf,2026-08-31,"standalone, Latvian GAAP; the 0.05 was distributed from 2017 retained earnings"
+SCM1R,2022,1.558,0.143,1.949,1.767,0.183,0.4,0.08,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/scm/2023_ar_en_eur_00_las.pdf,2026-08-31,"standalone, Latvian GAAP; profit left undistributed"
+SFG1T,2025,55.0,9.0,94.0,77.0,17.0,36.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+SFG1T,2024,58.0,12.0,84.0,66.0,18.0,36.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+SFG1T,2023,58.597,9.927,72.252,54.12,18.132,36.0,0.0,ESEF,https://filings.xbrl.org/529900JNG41RRJKJYB65/2023-12-31/ESEF/EE/1/529900JNG41RRJKJYB65-2023-12-31-en.json,2026-08-31,liabilities include 2.743m of non-controlling interests
+SKN1T,2025,7.328,-1.154,9.323,4.462,4.861,8.499,,Issuer annual report (audited),https://www.nasdaqbaltic.com/market/upload/reports/skn/2025_ar_et_eur_con_esef.pdf,2026-08-31,consolidated IFRS
+SKN1T,2024,8.0,-1.0,8.0,4.0,4.0,4.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+SKN1T,2023,8.0,-1.0,9.0,4.0,5.0,4.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+SKN1T,2022,11.0,1.0,9.0,5.0,4.0,4.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+TAL1T,2025,765.0,17.0,1331.0,750.0,581.0,748.0,0.06,Morningstar fact sheet via nasdaqbaltic.com,,,
+TAL1T,2024,786.0,40.0,1464.0,782.0,682.0,747.0,0.06,Morningstar fact sheet via nasdaqbaltic.com,,,
+TAL1T,2023,835.0,79.0,,786.0,,744.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+TAL1T,2022,771.387,13.935,1691.642,706.931,984.711,733.421,,ESEF,https://filings.xbrl.org/529900QRMWAKKR3L9W75/2022-12-31/ESEF/EE/1/529900QRMWAKKR3L9W75-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+TEL1L,2025,507.0,90.0,658.0,402.0,256.0,583.0,0.11,Morningstar fact sheet via nasdaqbaltic.com,,,
+TEL1L,2024,491.0,72.0,611.0,376.0,235.0,583.0,0.09,Morningstar fact sheet via nasdaqbaltic.com,,,
+TEL1L,2023,477.0,64.0,,357.0,,583.0,0.06,Morningstar fact sheet via nasdaqbaltic.com,,,
+TKM1T,2025,920.0,18.0,698.0,264.0,434.0,41.0,0.65,Morningstar fact sheet via nasdaqbaltic.com,,,
+TKM1T,2024,945.0,27.0,707.0,262.0,445.0,41.0,0.72,Morningstar fact sheet via nasdaqbaltic.com,,,
+TKM1T,2023,947.0,37.0,,263.0,,41.0,0.68,Morningstar fact sheet via nasdaqbaltic.com,,,
+TPD1T,2025,0.0,-0.1,1.805,1.755,0.049,4.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/tpd/2025_ar_en.pdf,2026-08-31,parent-only; revenue genuinely nil for the year
+TPD1T,2024,0.332,0.167,1.874,1.855,0.019,4.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/tpd/2024_ar_en_eur_00_00.pdf,2026-08-31,parent-only
+TPD1T,2023,0.027,-0.032,1.708,1.687,0.021,4.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/tpd/2024_ar_en_eur_00_00.pdf,2026-08-31,parent-only
+TSM1T,2025,119.0,22.0,622.0,381.0,241.0,263.0,0.07,Morningstar fact sheet via nasdaqbaltic.com,,,
+TSM1T,2024,119.587,19.153,629.861,377.613,252.248,263.0,0.07,ESEF,https://filings.xbrl.org/25490093MDYISEP1Y539/2024-12-31/ESEF/EE/0/25490093MDYISEP1Y539-2024-12-31-0-en.json,2026-08-31,
+TSM1T,2023,116.646,15.882,606.164,377.659,228.505,263.0,0.07,ESEF,https://filings.xbrl.org/25490093MDYISEP1Y539/2023-12-31/ESEF/EE/0/25490093MDYISEP1Y539-2023-12-31-et.json,2026-08-31,
+TSM1T,2022,121.703,25.592,621.229,380.976,240.253,255.92,,ESEF,https://filings.xbrl.org/25490093MDYISEP1Y539/2022-12-31/ESEF/EE/1/25490093MDYISEP1Y539-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+TVE1T,2025,72.0,14.0,365.0,124.0,241.0,20.0,0.53,Morningstar fact sheet via nasdaqbaltic.com,,,
+TVE1T,2024,64.377,13.283,313.841,120.153,193.688,20.0,0.51,ESEF,https://filings.xbrl.org/5493000M6TVS2X0KWC97/2024-12-31/ESEF/EE/0/5493000M6TVS2X0KWC97-2024-12-31-0-et.json,2026-08-31,
+TVE1T,2023,61.141,12.844,281.882,117.07,164.812,20.0,0.33,ESEF,https://filings.xbrl.org/5493000M6TVS2X0KWC97/2023-12-31/ESEF/EE/0/5493000M6TVS2X0KWC97-2023-12-31-et.json,2026-08-31,
+UTR1L,2025,22.895,-0.474,12.535,0.477,12.058,10.0,0.0,"Issuer report (balance sheet audited, income statement unaudited)",https://nasdaqbaltic.com/market/upload/reports/utr/2025_q4_en_con.pdf,2026-08-31,"consolidated, profit attributable to owners; audited annual report published only as an ESEF archive"
+UTR1L,2024,17.796,-1.791,15.505,0.39,15.115,10.0,0.0,Issuer annual report (audited),https://nasdaqbaltic.com/market/upload/reports/utr/2025_q4_en_con.pdf,2026-08-31,"consolidated, profit attributable to owners; audit restated every line against the unaudited release"
+UTR1L,2023,22.0,-3.0,15.0,2.0,13.0,10.0,0.0,Morningstar fact sheet via nasdaqbaltic.com,,,
+VBL1L,2025,104.219,4.438,82.852,39.348,43.504,4.0,0.78,ESEF,https://filings.xbrl.org/529900MJDB8L13ZF6G26/2025-08-31/ESEF/LT/0/abvilniausbaldai-2025-08-31-en.json,2026-08-31,
+VBL1L,2024,97.272,10.017,84.885,38.16,46.725,4.0,0.0,ESEF,https://filings.xbrl.org/529900MJDB8L13ZF6G26/2024-08-31/ESEF/LT/0/abvilniausbaldai-2024-08-31-en.json,2026-08-31,
+VBL1L,2023,97.868,1.589,81.451,28.122,53.329,4.0,0.0,ESEF,https://filings.xbrl.org/529900MJDB8L13ZF6G26/2023-08-31/ESEF/LT/0/abvilniausbaldai-2023-08-31-en.json,2026-08-31,
+VBL1L,2022,100.738,1.462,84.827,26.512,58.315,3.847,,ESEF,https://filings.xbrl.org/529900MJDB8L13ZF6G26/2022-08-31/ESEF/LT/0/abvilniausbaldai-2022-08-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+VIRSI,2025,398.0,6.0,188.0,110.0,78.0,15.0,0.05,Morningstar fact sheet via nasdaqbaltic.com,,,
+VIRSI,2024,381.0,5.0,151.0,74.0,77.0,15.0,0.05,Morningstar fact sheet via nasdaqbaltic.com,,,
+VIRSI,2023,344.0,5.0,140.0,70.0,70.0,15.0,0.11,Morningstar fact sheet via nasdaqbaltic.com,,,
+VLP1L,2025,286.931,10.936,188.977,88.916,100.036,12.0,0.54,ESEF,https://filings.xbrl.org/5299005NNDRP09PFOY81/2025-12-31/ESEF/LT/0/abvilkykipienin-2025-12-31-en.json,2026-08-31,
+VLP1L,2024,245.429,25.654,152.326,84.462,67.844,12.0,0.31,ESEF,https://filings.xbrl.org/5299005NNDRP09PFOY81/2024-12-31/ESEF/LT/0/abvilkyskiupienine-2024-12-31-en.json,2026-08-31,
+VLP1L,2023,210.536,14.666,107.039,61.026,46.008,12.0,0.27,ESEF,https://filings.xbrl.org/5299005NNDRP09PFOY81/2023-12-31/ESEF/LT/0/abvilkyskiupienine-2023-12-31-en.json,2026-08-31,
+VLP1L,2022,234.083,12.511,98.463,49.581,48.561,11.915,,ESEF,https://filings.xbrl.org/5299005NNDRP09PFOY81/2022-12-31/ESEF/LT/0/5299005NNDRP09PFOY81-2022-12-31-en.json,2026-08-31,shares derived from profit / basic EPS (weighted average)
+ZMP1L,2025,340.322,21.708,218.683,164.167,54.516,40.958,,ESEF,https://filings.xbrl.org/5299005U9E85Y55OHK45/2025-12-31/ESEF/LT/0/abzemaitijospienas-2025-12-31-en.json,2026-08-31,liabilities include 1.840m of non-controlling interests; shares derived from profit / basic EPS (weighted average)
+ZMP1L,2024,307.643,26.959,200.727,143.984,56.743,42.0,0.05,ESEF,https://filings.xbrl.org/5299005U9E85Y55OHK45/2024-12-31/ESEF/LT/0/abzemaitijospienas-2024-12-31-en.json,2026-08-31,liabilities include 1.922m of non-controlling interests
+ZMP1L,2023,278.004,21.253,166.475,122.159,44.316,42.0,0.0,ESEF,https://filings.xbrl.org/5299005U9E85Y55OHK45/2023-12-31/ESEF/LT/0/abzemaitijospienas-2023-12-31-en.json,2026-08-31,liabilities include 1.585m of non-controlling interests
+ZMP1L,2022,263.394,4.15,164.875,100.707,64.168,42.0,0.0,ESEF,https://filings.xbrl.org/5299005U9E85Y55OHK45/2022-12-31/ESEF/LT/0/zpienas-2022-12-31-en.json,2026-08-31,liabilities include 1.389m of non-controlling interests
