@@ -12,7 +12,8 @@ The exchange publishes this information as Morningstar fact sheets, one PDF per 
 data/
   companies_meta.csv    curated  — 69 companies, one row each
   financials.csv        curated  — 226 company-year rows
-  manual_2025.csv       curated  — figures entered by hand where no filing was reachable
+  manual_*.csv          curated  — figures entered by hand where no filing was reachable
+  lei_map.csv           cache    — ISIN to LEI, so GLEIF is asked once per company
   DICTIONARY.md         field definitions, conventions, known limits
 src/
   01_create_db.py       builds db/nasdaq_baltic.db from the CSVs
